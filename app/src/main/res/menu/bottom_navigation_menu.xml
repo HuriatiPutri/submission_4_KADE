@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/previous"
+        android:title="Previous"
+        android:icon="@drawable/icons_stadium_24"/>
+
+    <item
+        android:id="@+id/next"
+        android:title="Next"
+        android:icon="@drawable/baseline_event_black_24dp" />
+
+    <item
+        android:id="@+id/fav"
+        android:title="Favorite"
+        android:icon="@drawable/ic_star" />
+</menu>

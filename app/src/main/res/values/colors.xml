@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorCheck">#ffffff</color>
+    <color name="colorUncheck">#B2D7D2</color>
+    <color name="basilGreen">#356859</color>
+    <color name="green_basil">#B9E4C9</color>
+    <color name="basilOrange">#FD5523</color>
+    <color name="replyblue">#D1E0E9</color>
+    <color name="reply">#EEF4F7</color>
+    <color name="replyorange">#0E0D0D</color>
+</resources>
